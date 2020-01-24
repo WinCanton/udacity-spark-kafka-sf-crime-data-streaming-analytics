@@ -6,7 +6,7 @@
 
 
 ## Spark UI Snapshot
-![Spark UI Snapshot]](https://github.com/WinCanton/udacity-spark-kafka-sf-crime-data-streaming-analytics/blob/master/images/Spark_UI.png)
+![Spark UI Snapshot](https://github.com/WinCanton/udacity-spark-kafka-sf-crime-data-streaming-analytics/blob/master/images/Spark_UI.png)
 
 ## Kafka Consumer Console Output
 ![Kafka Consumer Output](https://github.com/WinCanton/udacity-spark-kafka-sf-crime-data-streaming-analytics/blob/master/images/kafka_console_consumer_output.png)
